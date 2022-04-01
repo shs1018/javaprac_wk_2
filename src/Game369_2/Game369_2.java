@@ -1,6 +1,5 @@
 package Game369_2;
 
-import java.awt.*;
 import java.util.ArrayList; //가변적으로 변하는 배열 생성
 import java.util.Scanner;
 
